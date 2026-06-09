@@ -1,0 +1,16 @@
+# 编译后的文件
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+env/
+
+# 日志和临时文件
+*.log
+*.pid
+user_config.json
+tag_presets.json
+
+# 模型缓存
+model_cache/
