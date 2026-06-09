@@ -280,7 +280,7 @@ def create_ui():
                             Python 3.8+、Gradio、wdtagger、onnxruntime、Pillow、timm、gallery-dl
 
                             **项目地址**  
-                            [GitHub 仓库]xxx
+                            [GitHub 仓库] https://github.com/aa2l/AA2L-Tagger-Manager
 
                              **许可证**  
                             
