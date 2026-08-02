@@ -103,17 +103,6 @@ A: 每个 .txt 文件内容为逗号分隔的标签，例如：`1girl, solo, blu
 ## 作者
 
 **@aa2l**  
-学习交流 QQ 群：`1019353738`  
-===============================
- [欢迎各位莅临小群](aa3l.png)
-🫶🫶🫶
-我们涉及的领域：
-
-AI类:Anima,Nai,SD,NewBie,Flux,Z-image,gpt-sovice;及其它开源库和闭源模型
-
-后期视设平设:Pr,Ae,Ps,Ai,Id
-
-开发:Transformer,Gradio,Ren.py,
 
 漫画原理(分镜脚本,漫画理论,漫符后期,美术)
 
